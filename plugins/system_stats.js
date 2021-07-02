@@ -1,12 +1,11 @@
-/* Copyright (C) 2020 TOXIC DEVIL
+/* Copyright (C) 2020 AK-KADDU
 
 CODDED BY TOXIC DEVIL
 
 Licensed under the  GPL-3.0 License;
 
 you may not use this file except in compliance with the License.
-WhatsAsenaPublic - TOXIC DEVIL
-*/
+WhatsAsenaPublic - AK-KADDU
 
 const Asena = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
